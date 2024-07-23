@@ -2,3 +2,6 @@ ths is for git test
 git fetch testing
 git pull testing
 updating in feature branch
+
+
+updating for merge stategy
